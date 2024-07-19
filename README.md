@@ -62,7 +62,7 @@ Continuing through the log, it can be observed that past log 125, the web server
 
 *Ref 3: Server overload with continuous SYN requests and error messages experienced by legitimate visitors.*
 
-### Step 4: Writing the Cybersecurity Incident Report
+### Step 4: Write the Cybersecurity Incident Report
 
 The report below documents the type of network attack that was identified and explains how it disrupts normal website operations.
 
