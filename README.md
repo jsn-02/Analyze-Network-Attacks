@@ -18,7 +18,7 @@ To analyze and document a recent security incident affecting the travel agency's
 - Identification and analysis of network intrusion attacks.
 - Utilization of packet sniffing tools (like Wireshark) for traffic analysis.
 - Understanding the impact of denial-of-service (DoS) attacks on web server performance.
-- Communication of technical findings and recommendations to management.
+- Communication of technical findings and recommendations.
 
 ### Tools Used
 
