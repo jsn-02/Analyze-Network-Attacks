@@ -37,7 +37,7 @@ At this point, the web server can still handle regular visitor traffic, as seen 
 
 ![image](https://github.com/user-attachments/assets/046ea05b-be3f-4cd6-9d2a-1451d5d1a6ae) 
 
-*Ref 1: Normal SYN requests and server responses before the attack intensifies.*
+> *Ref 1: Normal SYN requests and server responses before the attack intensifies.*
 
 ### Step 2: Escalation of Attack and Impact
 
@@ -52,7 +52,7 @@ These errors demonstrate the impact of the SYN flood attack, disrupting normal o
 
 ![image](https://github.com/user-attachments/assets/535aff87-3766-4e2c-b4c4-aadfdda6cb33) 
 
-*Ref 2: Escalating SYN requests and the server's initial difficulties in handling them.*
+> *Ref 2: Escalating SYN requests and the server's initial difficulties in handling them.*
 
 ### Step 3: Web Server Overwhelmed and Stoppage
 
@@ -60,7 +60,7 @@ Continuing through the log, it can be observed that past log 125, the web server
 
 ![image](https://github.com/user-attachments/assets/5dce9836-191e-431e-ad52-06d3d725360c) 
 
-*Ref 3: Server overload with continuous SYN requests and error messages experienced by legitimate visitors.*
+> *Ref 3: Server overload with continuous SYN requests and error messages experienced by legitimate visitors.*
 
 ### Step 4: Write the Cybersecurity Incident Report
 
